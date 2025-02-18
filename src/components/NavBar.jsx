@@ -37,7 +37,7 @@ const NavBar = () => {
         {/* Login/Register buttons for desktop */}
         <div className="flex gap-10 max-xl:hidden text-sm">
           <Link
-            href="#"
+            to='/contact'
             className="flex items-center py-3 px-12 text-white border-2  border-[#ffff] rounded-lg uppercase hover:bg-[#003366] hover:text-white"
           >
             Contact <FaPhoneAlt className="mx-2"/>
@@ -81,7 +81,7 @@ const NavBar = () => {
 
             <div className="flex flex-col gap-2 w-full">
               <Link
-                href="#"
+                to='/contact'
                 className="w-full flex items-center py-3 px-4 mb-6 text-blue border-2 border-[#003366] rounded-lg uppercase hover:bg-[#003366] hover:text-white text-center"
               >
                 CONTACT
