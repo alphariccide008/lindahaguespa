@@ -8,16 +8,16 @@ const Features = () => {
       <h1 className="text-center pb-[3%] text-white text-[30px] md:text-[60px] font-semibold">GALLERY</h1>
       <div className="md:flex  mx-[3%]">
         <div className="flex-col md:w-1/4">
-          <img src={banner1} alt=""  className="h-[100%] pb-3 rounded-lg sm:w-[100%] md:w-[90%]" />
+          <img src={banner1} alt=""  className="h-[380px] md:h-[100%] pb-3 rounded-lg w-[100%] md:w-[90%]" />
         </div>
         <div className="flex-col md:w-1/4">
-        <img src={banner2} alt=""  className="h-[100%]  pb-3 rounded-lg sm:w-[100%] md:w-[90%]" />
+        <img src={banner2} alt=""  className="h-[380px]  md:h-[100%]  pb-3 rounded-lg sm:w-[100%] md:w-[90%]" />
         </div>
         <div className="flex-col md:w-1/4">
-        <img src={banner3} alt=""  className="h-[100%]  pb-3 rounded-lg sm:w-[100%] md:w-[90%]" />
+        <img src={banner3} alt=""  className="h-[380px]  md:h-[100%]  pb-3 rounded-lg sm:w-[100%] md:w-[90%]" />
         </div>
         <div className="flex-col md:w-1/4">
-        <img src={banner4} alt=""  className="h-[100%]  pb-3 rounded-lg sm:w-[100%] md:w-[90%]" />
+        <img src={banner4} alt=""  className="h-[380px] md:h-[100%]  pb-3 rounded-lg sm:w-[100%] md:w-[90%]" />
         </div>
       </div>
       <div className="flex justify-center mt-8">

@@ -73,7 +73,7 @@ const Partners = () => {
         </Link>
           </div>
           <div className="flex-col px-[2%] md:w-1/2">
-            <img src={banner1} alt=""  className="h-[100%] rounded-lg sm:w-[100%] md:w-[90%]" />
+            <img src={banner1} alt=""  className="h-[380px] md:h-[100%] rounded-lg w-[100%] md:w-[90%]" />
           </div>
          </div>
       </section>
