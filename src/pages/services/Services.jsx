@@ -8,40 +8,40 @@ const Services = () => {
           <h1 className="text-center md:text-[60px]">Gallery</h1>
           <div className="md:flex py-4 flex-wrap">
             <div className="flex-col md:w-1/3">
-            <img src={banner1} alt=""  className="h-[100%] p-3 rounded-lg sm:w-[100%]  md:w-[100%]" />
+            <img src={banner1} alt=""  className="h-[70%] md:h-[100%] p-3 rounded-lg sm:w-[100%]  md:w-[100%]" />
             </div>
             <div className="flex-col md:w-1/3">
-              <img src={banner2} alt=""  className="h-[100%] p-3 rounded-lg sm:w-[100%]  md:w-[100%]" />
+              <img src={banner2} alt=""  className="h-[70%] md:h-[100%] p-3 rounded-lg sm:w-[100%]  md:w-[100%]" />
             </div>
             <div className="flex-col md:w-1/3">
-            <img src={banner3} alt=""  className="h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
+            <img src={banner3} alt=""  className="h-[70%] md:h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
             </div>
             <div className="flex-col md:w-1/3">
-            <img src={banner4} alt=""  className="h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
+            <img src={banner4} alt=""  className="h-[70%] md:h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
             </div>
             <div className="flex-col md:w-1/3">
-            <img src={banner5} alt=""  className="h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
+            <img src={banner5} alt=""  className="h-[70%] md:h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
             </div>
             <div className="flex-col md:w-1/3">
-            <img src={banner6} alt=""  className="h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
+            <img src={banner6} alt=""  className="h-[70%] md:h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
             </div>
             <div className="flex-col md:w-1/3">
-            <img src={banner7} alt=""  className="h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
+            <img src={banner7} alt=""  className="h-[70%] md:h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
             </div>
             <div className="flex-col md:w-1/3">
-            <img src={banner8} alt=""  className="h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
+            <img src={banner8} alt=""  className="h-[70%] md:h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
             </div>
             <div className="flex-col md:w-1/3">
-            <img src={banner9} alt=""  className="h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
+            <img src={banner9} alt=""  className="h-[70%] md:h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
             </div>
             <div className="flex-col md:w-1/3">
-            <img src={banner10} alt=""  className="h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
+            <img src={banner10} alt=""  className="h-[70%] md:h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
             </div>
             <div className="flex-col md:w-1/3">
-            <img src={banner11} alt=""  className="h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
+            <img src={banner11} alt=""  className="h-[70%] md:h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
             </div>
             <div className="flex-col md:w-1/3">
-            <img src={banner12} alt=""  className="h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
+            <img src={banner12} alt=""  className="h-[70%] md:h-[100%] p-3 rounded-lg sm:w-[100%] md:w-[100%]" />
             </div>
           </div>
         </div>
