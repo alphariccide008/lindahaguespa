@@ -76,7 +76,7 @@ const Blog = () => {
             <p className="py-2">5 hours - $480</p>
             <p className="py-2">Full Night - $600</p>
             <div className="flex mt-2 justify-center">
-              <a href="#" className="bg-[#000000] w-50 mx-1 md:text-[15px] flex rounded-lg text-sm text-white p-5 hover:bg-white hover:text-[#697dbb]" >
+              <a href="/contact" className="bg-[#000000] w-50 mx-1 md:text-[15px] flex rounded-lg text-sm text-white p-5 hover:bg-white hover:text-[#697dbb]" >
                 Book A Session <FaCalendarAlt className="mx-2 mt-1" />
               </a>
             </div>
@@ -90,7 +90,7 @@ const Blog = () => {
             <p className="py-2">Fetish Play</p>
             <p className="py-2">Foot Massage</p>
             <div className="flex mt-2 justify-center">
-              <a href="#" className="bg-[#000000] w-50 mx-1 md:text-[15px] flex rounded-lg text-sm text-white p-5 hover:bg-white hover:text-[#697dbb]" >
+              <a href="/contact" className="bg-[#000000] w-50 mx-1 md:text-[15px] flex rounded-lg text-sm text-white p-5 hover:bg-white hover:text-[#697dbb]" >
                 Contact <FaPhoneAlt className="mx-2 mt-1" />
               </a>
             </div>
